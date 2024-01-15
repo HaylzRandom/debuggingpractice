@@ -12,3 +12,4 @@ C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8
 C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.pdb
 C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.genruntimeconfig.cache
 C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\ref\DebuggingProject.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.sourcelink.json
