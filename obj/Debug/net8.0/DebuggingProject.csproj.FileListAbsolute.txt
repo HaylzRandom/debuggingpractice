@@ -1,0 +1,14 @@
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\bin\Debug\net8.0\DebuggingProject.exe
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\bin\Debug\net8.0\DebuggingProject.deps.json
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\bin\Debug\net8.0\DebuggingProject.runtimeconfig.json
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\bin\Debug\net8.0\DebuggingProject.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\bin\Debug\net8.0\DebuggingProject.pdb
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.AssemblyInfoInputs.cache
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.AssemblyInfo.cs
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.csproj.CoreCompileInputs.cache
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\refint\DebuggingProject.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.pdb
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\DebuggingProject.genruntimeconfig.cache
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\DebuggingProject\obj\Debug\net8.0\ref\DebuggingProject.dll
